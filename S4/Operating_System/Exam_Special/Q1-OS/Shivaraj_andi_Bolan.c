@@ -14,7 +14,7 @@ void main()
     struct Unni Kuttus;
     for (i = 0; i < n; i++)
     {
-
+        
     }
 
 }
